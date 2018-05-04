@@ -1,5 +1,7 @@
 {
 "EP/STR": "epicentre",
+"HRAERPB": "learn",
+"HRAERPBT": "learnt",
 "HRAOEU/S*EPBS": "licence",
 "SEPB/TER": "centre",
 "SEPB/TER/PAO*ES": "centrepiece",
@@ -25,5 +27,6 @@
 "STR-S": "centres",
 "STR/-D": "centred",
 "STR/-G": "centring",
-"STR/PAOES": "centrepiece"
+"STR/PAOES": "centrepiece",
+"TPAEUFR": "favour"
 }
