@@ -32,5 +32,15 @@
 "TPHEPBT": "{#Return}",
 "TPW-G": "{#Alt_L(Right)}",
 "TPW-R": "{#Alt_L(Left)}",
-"KHR-P": "{PLOVER:LOOKUP}"
+"PHR*UP":"{PLOVER:LOOKUP}",
+"KA*PD":"{*-|}",
+"KA*PS":"{MODE:CAPS}",
+"KPA*L":"{<}",
+"*UPD":"{*<}",
+"HRO*ER":"{>}",
+"HRO*ERD":"{*>}",
+"#":"{*+}",
+"#*":"{*}",
+"AFPS":"{*?}",
+"TK-FPS":"{*!}"
 }
